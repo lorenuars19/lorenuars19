@@ -4,10 +4,10 @@
 I &#10084;&#65039; spending time thinking, building low-level applications, but I also enjoy making music and graphic design.
 <p>📬 : <a href="mailto:lorenuar.s19@gmail.com">lorenuar.s19@gmail.com</a><p>
 
-### 42 cursus
+<!-- ### 42 cursus
 <a href="https://github.com/JaeSeoKim/badge42">
   <img align="center" src="https://badge42.herokuapp.com/api/stats/lorenuar?darkmode=true" />
-</a>
+</a> -->
  
 ### Github stats
 <a href="https://github.com/anuraghazra/convoychat">
