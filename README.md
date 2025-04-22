@@ -3,6 +3,8 @@
 I &#10084;&#65039; spending time thinking, building low-level applications, but I also enjoy making music and graphic design.
 <p>📬 : <a href="mailto:lorenuar.s19@gmail.com">lorenuar.s19@gmail.com</a><p>
 
+https://www.linkedin.com/in/louis-renuart-s19/
+
 Skilled problem-solver proficient in C and Python, with practical experience in AGILE and SCRUM methodologies. Knowledgeable across a range of languages and software tools. Passionate about developing innovative projects, continuously learning new technologies, and applying creative thinking to technical challenges. Seeking to leverage expertise in software development, CI/CD, and system optimization to contribute effectively to a dynamic technical team. Efficient learner who enjoys tinkering with music, design, CAD, and game development in spare time.
 
 ---
