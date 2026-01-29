@@ -5,7 +5,7 @@ I &#10084;&#65039; spending time thinking, building low-level applications, but 
 
 https://www.linkedin.com/in/louis-renuart-s19/
 
-Skilled problem-solver proficient in C and Python, with practical experience in AGILE and SCRUM methodologies. Knowledgeable across a range of languages and software tools. Passionate about developing innovative projects, continuously learning new technologies, and applying creative thinking to technical challenges. Seeking to leverage expertise in software development, CI/CD, and system optimization to contribute effectively to a dynamic technical team. Efficient learner who enjoys tinkering with music, design, CAD, and game development in spare time.
+Skilled problem-solver proficient in C and Python, with practical experience in AGILE and SCRUM methodologies. Knowledgeable across a range of languages and software tools. Passionate about developing innovative projects, continuously learning new technologies, and applying creative thinking to technical challenges. Seeking to leverage expertise in software development, CI/CD, and system optimization to contribute effectively to a dynamic technical team. Efficient learner who enjoys tinkering with hardware,visuals, graphic design, CAD, and music in spare time.
 
 ---
 ## Skills
@@ -25,15 +25,15 @@ Skilled problem-solver proficient in C and Python, with practical experience in 
 ### Technical Proficiency:
 
 #### Excellent Knowledge:
-- **OS & DevOps:** Linux, Bash, GIT, GitLab CI, Docker
+- **OS & DevOps:** Linux, Bash, GIT, GitLab CI, Docker, Kubernetes
 - **Programming:** Python, PDB, C/C++, GNU Make, GDB
 - **Tools & Creative:** VSCod(ium), VIM, Miro, Inkscape, GIMP, Krita, Blender, DaVinci Resolve, FL Studio
 
 #### Good Knowledge:
-- **Programming & Scripting:** Python Ecosystem (Libraries: ruff, uv, rich, hatch, jira, atlassian-api, gitlab-python), ASM, RUST (Embassy), Perl
-- **Build & Infra:** CMake, Kubernetes
+- **Programming & Scripting:** Python Ecosystem (Libraries: ruff, uv, rich, hatch, jira, atlassian-api, gitlab-python), ASM, RUST (Embassy, bevy), Perl
+- **Build & Infra:** CMake
 - **Web & Data:** JavaScript/TypeScript, CSS, JSON, HTML, XML, YAML, TOML
-- **Design & Creative:** OnShape CAD, Cura, Slic3r, Ableton, Adobe Suite, Obsidian
+- **Design & Creative:** OnShape CAD, Cura, Slic3r, Ableton, Adobe Suite, Obsidian, TiXL
 
 #### **Basic Knowledge:**
   - C#, JAVA
