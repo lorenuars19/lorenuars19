@@ -31,7 +31,7 @@ Skilled problem-solver proficient in C and Python, with practical experience in 
 
 #### Good Knowledge:
 - **Programming & Scripting:** Python Ecosystem (Libraries: ruff, uv, rich, hatch, jira, atlassian-api, gitlab-python), ASM, RUST (Embassy, bevy), Perl
-- **Build & Infra:** CMake
+- **Build:** CMake
 - **Web & Data:** JavaScript/TypeScript, CSS, JSON, HTML, XML, YAML, TOML
 - **Design & Creative:** OnShape CAD, Cura, Slic3r, Ableton, Adobe Suite, Obsidian, TiXL
 
